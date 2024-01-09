@@ -1,0 +1,11 @@
+ERROR: 2024/01/09 02:21:46 controller.go:62: my response ai 
+ERROR: 2024/01/09 02:31:45 controller.go:59: OpenAI Response: I'm just a computer program, so I don't have feelings. But thank you for asking! How can I assist you today?
+ERROR: 2024/01/09 02:33:12 controller.go:107: No Data
+ERROR: 2024/01/09 02:33:16 controller.go:128: No Data
+ERROR: 2024/01/09 02:34:21 controller.go:117: Null Data
+ERROR: 2024/01/09 02:34:38 controller.go:59: OpenAI Response: Hello! As an AI, I do not have emotions, but I am here to assist you with any questions or tasks you have. How can I help you today?
+ERROR: 2024/01/09 02:38:57 controller.go:113: Null Data
+ERROR: 2024/01/09 02:39:01 controller.go:59: OpenAI Response: Hello! As an AI, I don't have feelings, but I'm here to help you. How can I assist you today?
+ERROR: 2024/01/09 02:39:01 controller.go:88: response AI now Hello! As an AI, I don't have feelings, but I'm here to help you. How can I assist you today?
+ERROR: 2024/01/09 02:39:30 controller.go:59: OpenAI Response: Ya, saya bisa berbicara bahasa Indonesia. Ada yang bisa saya bantu?
+ERROR: 2024/01/09 02:39:30 controller.go:88: response AI now Ya, saya bisa berbicara bahasa Indonesia. Ada yang bisa saya bantu?

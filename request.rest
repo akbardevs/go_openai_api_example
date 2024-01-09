@@ -1,0 +1,17 @@
+### Testing API
+
+### GET Health
+GET http://localhost:8080/health
+
+### GET HISTORY
+GET http://localhost:8080/message
+
+### Send Message
+POST http://localhost:8080/message/send
+Content-Type: application/json
+
+{
+    "Sender": "User",
+    "Receiver": "System",
+    "Message": "can you speak indonesia?"
+}
